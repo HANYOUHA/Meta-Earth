@@ -1,0 +1,13 @@
+.Map{
+
+
+  
+        height: 100vh;
+        background-image: url('./image/map-b.png');
+        background-repeat : no-repeat;
+        background-size : auto;
+        background-position: center;
+      
+}
+
+
